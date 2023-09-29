@@ -12,7 +12,10 @@ Software developer student at [**42 Madrid**]("https://www.42madrid.com/en)
 
 ### My 42 cursus:
 
-
+|Columna 1|Columna 2|
+|--------|--------|
+|    A    |    B    |
+|    C    |    D    |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
