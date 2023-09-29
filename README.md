@@ -1,4 +1,4 @@
-<img src="resources/telufulu.jpg" width="100%" href="http://www.teresalufuluabo.es"/>
+[<img src="resources/telufulu.jpg" width="100%" />]("http://www.teresalufuluabo.es")
 
 Software developer student at [**42 Madrid**]("https://www.42madrid.com/en)
 
