@@ -11,10 +11,11 @@ Software developer student at [**42 Madrid**]("https://www.42madrid.com/en)
 
 
 ### My 42 cursus:
-
+<center>
 | Project | Score | Time invested |
 |--------|--------|---------------|
 | [**Libft**](git@github.com:telufulu/Libft.git) | ![125%](https://progress-bar.dev/125) | 40h |
+</center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
