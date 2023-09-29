@@ -1,6 +1,6 @@
 [<img src="resources/telufulu.jpg" width="100%" />]("http://www.teresalufuluabo.es")
 
-Software developer student at ![42 Madrid]("https://www.42madrid.com/en)
+Software developer student at [42 Madrid](https://www.42madrid.com/en)
 
 - 💻 Interested in Artificial Inteligence, Data Science and Music 💻
 
@@ -13,9 +13,9 @@ Software developer student at ![42 Madrid]("https://www.42madrid.com/en)
 ### My 42 cursus:
 | Project | Score | Time invested |
 |--------|--------|---------------|
-| ![**Libft**](git@github.com:telufulu/Libft.git) | ![125%](https://progress-bar.dev/125) | 40h |
-| ![**get_next_line**](git@github.com:telufulu/get_next_line.git) | ![125%](https://progress-bar.dev/112) | 50h |
-| ![**ft_printf**](git@github.com:telufulu/Libft.git) | ![125%](https://progress-bar.dev/100) | 15h |
+| [**Libft**](https://github.com/telufulu/Libft) | ![125%](https://progress-bar.dev/125) | 40h |
+| [**get_next_line**](https://github.com:telufulu/get_next_line) | ![125%](https://progress-bar.dev/112) | 50h |
+| [**ft_printf**](https://github.com:telufulu/ft_printf) | ![125%](https://progress-bar.dev/100) | 15h |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
