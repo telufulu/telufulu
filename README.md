@@ -14,7 +14,7 @@ Software developer student at [**42 Madrid**]("https://www.42madrid.com/en)
 
 | Project | Score | Time invested |
 |--------|--------|
-| [**Libft**](git@github.com:telufulu/Libft.git) | ![125%](https://progress-bar.dev/50) |
+| [**Libft**](git@github.com:telufulu/Libft.git) | ![125%](https://progress-bar.dev/125) |
 |    A    |    B    |
 |    C    |    D    |
 
