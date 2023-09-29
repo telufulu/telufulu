@@ -12,8 +12,9 @@ Software developer student at [**42 Madrid**]("https://www.42madrid.com/en)
 
 ### My 42 cursus:
 
-|Columna 1|Columna 2|
+| Project | Score | Time invested |
 |--------|--------|
+| [**Libft**](git@github.com:telufulu/Libft.git) | ![125%](https://progress-bar.dev/50) |
 |    A    |    B    |
 |    C    |    D    |
 
