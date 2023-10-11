@@ -17,6 +17,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 | [**Libft**](https://github.com/telufulu/Libft) | ![125%](https://progress-bar.dev/125) | 40h |
 | [**get_next_line**](https://github.com/telufulu/get_next_line) | ![125%](https://progress-bar.dev/112) | 50h |
 | [**ft_printf**](https://github.com/telufulu/ft_printf) | ![125%](https://progress-bar.dev/100) | 15h |
+| [**minitalk**](https://github.com/telufulu/minitalk) | ![125%](https://progress-bar.dev/0) | In progress |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
