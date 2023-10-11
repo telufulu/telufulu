@@ -9,6 +9,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 
 - 📫 Reach me at **teresa@teresalufuluabo.es** or in my [LinkedIn](https://www.linkedin.com/in/teresa-b-lufuluabo-pastor-659702204/)
 
+- If you need to access some of my documentation, contact me by Slack (telufulu)
 
 ### My 42 cursus:
 | Project | Score | Time invested |
