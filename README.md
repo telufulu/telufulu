@@ -18,6 +18,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 | [**get_next_line**](https://github.com/telufulu/get_next_line) | ![125%](https://progress-bar.dev/125) | 50h |
 | [**ft_printf**](https://github.com/telufulu/ft_printf) | ![125%](https://progress-bar.dev/100) | 15h |
 | [**minitalk**](https://github.com/telufulu/minitalk) | ![125%](https://progress-bar.dev/0) | In progress |
+| [**push_swap**](https://github.com/telufulu/push_swap) | ![125%](https://progress-bar.dev/0) | In progress |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +27,3 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 <a href="https://www.instagram.com/teresa.lufuluabo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@teresa.lufuluabo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCP-_Uh0x5_iC0_YLi10aTfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@teresa.lufuluabo" height="30" width="40" /></a>
 </p>
-
-
