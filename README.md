@@ -5,7 +5,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 - 💻 Interested in Artificial Inteligence, Data Science and Music 💻
 
 - 🎷 I'm also a conductor 🎷
-(check my [webpage]([https://www.teresalufuluabo.es](https://www.youtube.com/channel/UCP-_Uh0x5_iC0_YLi10aTfA)))
+(check my [webpage](https://www.youtube.com/channel/UCP-_Uh0x5_iC0_YLi10aTfA))
 
 - 📫 Reach me at **teresa@teresalufuluabo.es** or in my [LinkedIn](https://www.linkedin.com/in/teresa-b-lufuluabo-pastor-659702204/)
 
