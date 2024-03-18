@@ -1,8 +1,7 @@
 [<img src="resources/telufulu.jpg" width="100%" />]("http://www.teresalufuluabo.es")
 
-Software developer student at [42 Madrid](https://www.42madrid.com/en)
 
-- 💻 Interested in Artificial Inteligence, Data Science and Music 💻
+- 💻 Software developer student at [42 Madrid](https://www.42madrid.com/en) 💻
 
 - 🎷 I'm also a conductor 🎷
 (check my [webpage](https://www.youtube.com/channel/UCP-_Uh0x5_iC0_YLi10aTfA))
@@ -20,6 +19,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 | [**minitalk**](https://github.com/telufulu/minitalk) | ![125%](https://progress-bar.dev/125) | 25h |
 | [**push_swap**](https://github.com/telufulu/push_swap) | ![125%](https://progress-bar.dev/86) | 55h |
 | [**So_long**](https://github.com/telufulu/so_long) | ![125%](https://progress-bar.dev/100) | 55h |
+| [**Philosophers**](https://github.com/telufulu/philosophers) | ![125%](https://progress-bar.dev/0) | In progress |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
