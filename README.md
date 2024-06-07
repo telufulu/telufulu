@@ -20,7 +20,7 @@
 | [**push_swap**](https://github.com/telufulu/push_swap) | ![125%](https://progress-bar.dev/86) | 55h |
 | [**So_long**](https://github.com/telufulu/so_long) | ![125%](https://progress-bar.dev/100) | 55h |
 | [**Philosophers**](https://github.com/telufulu/philosophers) | ![125%](https://progress-bar.dev/100) | 63h |
-| [**Minishell**](https://github.com/iortego42/minishell) | ![125%](https://progress-bar.dev/0) | In progress |
+| [**Minishell**](https://github.com/telufulu/minishell) | ![125%](https://progress-bar.dev/0) | In progress |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
