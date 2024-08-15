@@ -13,14 +13,14 @@
 ### My 42 cursus:
 | Project | Score | Time invested |
 |--------|--------|---------------|
-| [**Libft**](https://github.com/telufulu/Libft) | ![125%](https://progress-bar.dev/125) | 40h |
-| [**get_next_line**](https://github.com/telufulu/get_next_line) | ![125%](https://progress-bar.dev/125) | 50h |
-| [**ft_printf**](https://github.com/telufulu/ft_printf) | ![125%](https://progress-bar.dev/100) | 15h |
-| [**minitalk**](https://github.com/telufulu/minitalk) | ![125%](https://progress-bar.dev/125) | 25h |
-| [**push_swap**](https://github.com/telufulu/push_swap) | ![125%](https://progress-bar.dev/86) | 55h |
-| [**So_long**](https://github.com/telufulu/so_long) | ![125%](https://progress-bar.dev/100) | 55h |
-| [**Philosophers**](https://github.com/telufulu/philosophers) | ![125%](https://progress-bar.dev/100) | 63h |
-| [**Minishell**](https://github.com/telufulu/minishell) | ![125%](https://progress-bar.dev/0) | In progress |
+| [**Libft**](https://github.com/telufulu/Libft) | 125 | 40h |
+| [**get_next_line**](https://github.com/telufulu/get_next_line) | 125 | 50h |
+| [**ft_printf**](https://github.com/telufulu/ft_printf) | 100 | 15h |
+| [**minitalk**](https://github.com/telufulu/minitalk) | 125 | 25h |
+| [**push_swap**](https://github.com/telufulu/push_swap) | 125 | 55h |
+| [**So_long**](https://github.com/telufulu/so_long) | 125 | 55h |
+| [**Philosophers**](https://github.com/telufulu/philosophers) | 100 | 63h |
+| [**Minishell**](https://github.com/telufulu/minishell) | In progress | In progress |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
