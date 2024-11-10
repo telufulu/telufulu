@@ -20,37 +20,37 @@
     <table>
       <tr></tr><th>Proyect</th><th>Score</th><th>Time Invested</th></tr>
       <tr>
-        <td><a href="https://github.com/telufulu/Libft)">Libft</a></td>
+        <td><a href="https://github.com/telufulu/Libft">Libft</a></td>
         <td>125</td>
         <td>40h</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/telufulu/get_next_line)">Get next line</a></td></td>
+        <td><a href="https://github.com/telufulu/get_next_line">Get next line</a></td></td>
         <td>125</td>
         <td>50h</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/telufulu/ft_printf)">ft_printf</a></td></td>
+        <td><a href="https://github.com/telufulu/ft_printf">ft_printf</a></td></td>
         <td>100</td>
         <td>15h</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/telufulu/minitalk)">Minitalk</a></td></td>
+        <td><a href="https://github.com/telufulu/minitalk">Minitalk</a></td></td>
         <td>125</td>
         <td>25h</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/telufulu/push_swap)">push_swap</a></td></td>
+        <td><a href="https://github.com/telufulu/push_swap">push_swap</a></td></td>
         <td>125</td>
         <td>55h</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/telufulu/so_long)">so_long</a></td></td>
+        <td><a href="https://github.com/telufulu/so_long">so_long</a></td></td>
         <td>125</td>
         <td>55h</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/telufulu/philosophers)">Philosophers</a></td></td>
+        <td><a href="https://github.com/telufulu/philosophers">Philosophers</a></td></td>
         <td>100</td>
         <td>63h</td>
       </tr>
