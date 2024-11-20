@@ -58,6 +58,11 @@
       </tr>
       <tr>
         <td><a href="https://github.com/telufulu/minishell">Minishell</a></td></td>
+        <td>100</td>
+        <td>135h</td>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/telufulu/cub3d">Cub3D</a></td></td>
         <td>In progress</td>
         <td>In progress</td>
       </tr>
