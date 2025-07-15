@@ -6,8 +6,6 @@
   <a href="https://www.youtube.com/channel/UCP-_Uh0x5_iC0_YLi10aTfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@teresa.lufuluabo" height="30" width="40" /></a>
 </div>
 
-<a href="https://github.com/Telefonica/opengateway-postman/raw/main/postman_collection.json" download>Postman collection</a>
-
 - 💻 Software developer student at [42 Madrid](https://www.42madrid.com/en) 💻
 
 - 🔊 Business Developer in [Open Gateway](https://opengateway.telefonica.com/)🔊
