@@ -61,7 +61,7 @@
       </tr>
        <tr>
         <td><a href="https://github.com/telufulu/cub3d">Cub3D</a></td></td>
-        <td>In progress</td>
+        <td>121</td>
         <td>115h</td>
       <tr>
         <td><a href="https://github.com/telufulu/cpp_modules">C++ Modules</a></td></td>
