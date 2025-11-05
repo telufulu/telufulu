@@ -8,8 +8,6 @@
 
 - 💻 Software developer student at [42 Madrid](https://www.42madrid.com/en) 💻
 
-- 🔊 Business Developer in [Open Gateway](https://opengateway.telefonica.com/)🔊
-
 - 🎷 I'm also a conductor 🎷
 (check my [webpage](https://www.youtube.com/channel/UCP-_Uh0x5_iC0_YLi10aTfA))
 
