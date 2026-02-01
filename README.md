@@ -66,6 +66,11 @@
         <td>In progress</td>
         <td>In progress</td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/siemeris/42_ft_irc">ft_irc</a></td></td>
+        <td>In progress</td>
+        <td>In progress</td>
+      </tr>
     </table>
 </div>
 <a href="https://github.com/oakoudad/badge42">
