@@ -34,7 +34,7 @@ I build **systems that teach**: Notion workspaces, developer tooling and educati
 
 - 🎤 **Digital Rights Workshop** — designing and delivering a workshop on digital rights for **high school, FP and university students**, as part of **42's outreach trainings** for educational institutions. The session helps young people understand the rights they hold — and the ones they routinely give up — when they move through the digital world.
 - 🛠️ [**CPP_Modules**](https://github.com/telufulu/cpp_modules) — working through the C++ track at 42 Madrid: orthodox canonical form, operator overloading, inheritance, polymorphism, templates and the STL. This is where I keep sharpening my C++98 fundamentals.
-- <img src="./assets/emojis/Notion_Symbol_1.png" width="20" height="20" alt=":notion:" style="vertical-align:middle" /> **Book tracker** — iterating on a Notion template to log books, follow reading progress and surface what to read next. Public version lives on my [Notion marketplace](https://lufensiastemplates.notion.site).
+- <img src="./resources/Notion_Symbol_1.png" width="20" height="20" alt=":notion:" style="vertical-align:middle" /> **Book tracker** — iterating on a Notion template to log books, follow reading progress and surface what to read next. Public version lives on my [Notion marketplace](https://lufensiastemplates.notion.site).
 
 > 📩 **Want to host the Digital Rights Workshop at your school, FP center or university?**
 > **[Email me](mailto:teresa@sherpa-advisory.com)** for available dates, formats and details.
