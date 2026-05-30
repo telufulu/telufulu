@@ -8,6 +8,17 @@ Desde Madrid · Estudiante en [42 Madrid](https://42madrid.com/)
 
 Construyo **sistemas que enseñan**: workspaces de Notion, herramientas para desarrolladoras y programas educativos que ayudan a otras personas a aprender más rápido y a publicar antes.
 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Make](https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 > Explorando ahora: TypeScript, Python para automatizaciones y flujos de desarrollo asistidos por IA.
 
 </div>
