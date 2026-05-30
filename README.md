@@ -30,7 +30,7 @@ I build **systems that teach**: Notion workspaces, developer tooling and educati
 
 ## 🔭 Currently working on
 
-> A snapshot of what has my attention this month. Updated regularly.
+A snapshot of what has my attention this month. I try to update this regularly.
 
 - 🎤 **Digital Rights Workshop** — designing and delivering a workshop on digital rights for **high school, FP and university students**, as part of **42's outreach trainings** for educational institutions. The session helps young people understand the rights they hold — and the ones they routinely give up — when they move through the digital world.
 - 🛠️ [**CPP_Modules**](https://github.com/telufulu/cpp_modules) — working through the C++ track at 42 Madrid: orthodox canonical form, operator overloading, inheritance, polymorphism, templates and the STL. This is where I keep sharpening my C++98 fundamentals.
@@ -75,10 +75,8 @@ End-to-end Notion setups for personal productivity and the public marketplace.
 
 </div>
 
-**42** is a global, peer-to-peer, project-based software engineering school
-with no teachers and no tuition fees. Students learn by building real
-projects in C, C++, shell and systems programming, reviewing each other's
-code and progressing through a curriculum that ranges from low-level memory
+**42** is a global, peer-to-peer, project-based software engineering school with no teachers and no tuition fees.
+Students learn by building real projects in C, C++, shell and systems programming, reviewing each other's code and progressing through a curriculum that ranges from low-level memory
 management to networking, graphics and full applications.
 
 Below are the projects I have completed (or am completing) in the **42 Madrid Common Core**.
