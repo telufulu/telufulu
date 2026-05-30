@@ -21,9 +21,6 @@ I build **systems that teach**: Notion workspaces, developer tooling and educati
 
 > Currently exploring: TypeScript, Python for automations, and AI-assisted dev workflows.
 
-![Lufu's GitHub stats](https://github-readme-stats.vercel.app/api?username=telufulu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telufulu&layout=compact&hide_border=true&langs_count=8)
-
 </div>
 
 ---
