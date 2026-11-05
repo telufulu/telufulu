@@ -82,7 +82,6 @@ Want to try my work first? Public templates live on my [Notion marketplace](http
 [![Request a Notion consultation](https://img.shields.io/badge/Request_a_Notion_consultation-000000?style=for-the-badge&logo=notion&logoColor=white)](mailto:teresa@lufuluabo.com?subject=Notion%20consultation%20request&body=Hi%20Teresa%21%0AI%20would%20like%20to%20request%20a%20Notion%20consultation.%0A%E2%80%A2%20Name%3A%20%0A%E2%80%A2%20Individual%20or%20company%20%28company%20name%20and%20team%20size%29%3A%20%0A%E2%80%A2%20Notion%20experience%20%28beginner%2C%20intermediate%20or%20advanced%29%3A%20%0A%E2%80%A2%20What%20I%20need%20to%20organize%3A%20%0A%E2%80%A2%20Tools%20I%20currently%20use%3A%20%0A%E2%80%A2%20Preferred%20language%20%28English%20or%20Spanish%29%3A%20%0A%E2%80%A2%20Availability%20for%20a%20call%3A%20%0AThank%20you%21)
 
 </div>
----
 
 ## 🏫 42 Common Core
 
