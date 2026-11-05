@@ -83,8 +83,6 @@ Diseño espacios de trabajo en Notion para personas y equipos: bases de datos, r
 
 </div>
 
----
-
 <div align="center">
 
 ## 🏫 42 Common Core
